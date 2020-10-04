@@ -1,0 +1,20 @@
+Pressing “H” in the game displays this table of commands:
+
+DIRECTORY OF COMMANDS AND THEIR ABBREVIATIONS
+
+ADVANCE.....(A)  ATTACK.....(AT)  CAST SPELL..(CA)
+DEFEND......(D)  END              EVADE.......(E)
+HELP........(H)  IDENTIFY...(ID)  KEY
+LOCATE......(L)  SPELLS.....(MS)  MOVE........(M)
+MAP              PASS PARTY.(P)   POINTS......(PO)
+READ SCROLL.(R)  STATUS.....(C)   WEAPON LIST.(WL)
+ DIVINE INTERVENTION.........(DI)  FIND AMULET.(F)
+ EXPERIENCE NEEDED...........(EX)
+ ROOMS VISITED IN ORDER......(V)
+ KNOWN TREASURE ROOMS........(T)
+
+INQUIRY COMMANDS:
+ YOUR LEVEL........(IL)  HIT POINTS........(IH)
+ STRENGTH..........(IS)  MAGIC ABILITY.....(IM)
+ SHIELD BONUS......(IB)  YOUR WEAPONS......(IW)
+ SCROLLS,AMULETS...(IC)  WHERE YOU ARE.....(IP)
