@@ -1,5 +1,7 @@
 # Instructions for running Wilderness
 
+I have made a short video that might help here: https://www.youtube.com/watch?v=jshzcU3Txrw
+
 You'll need the Exidy Sorcer emulator http://www.liaquay.co.uk/sorcerer/instructions.html
 
 The file you need from this repo is: 
