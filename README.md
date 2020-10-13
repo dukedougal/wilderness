@@ -18,7 +18,9 @@ Once the prompt has reappeared type run
 The instructions in the game don't tell you some important things:
 
 1: in the underworld, to move between rooms type M/roomnumber where roomnumber is the number of the room you wish to move to.
+
 2: In the underworld, you need to either write down the rooms that you can move to, or you can hit the V key to see "rooms visited in order" and mve back to a room you were previously in.
+
 3: to cast a spell, type CA/spellnumber - this is not in the instructions
 
 Email questions to dukedougal@gmail.com
